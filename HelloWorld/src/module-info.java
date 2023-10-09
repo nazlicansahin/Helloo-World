@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author diablo
+ *
+ */
+module HelloWorld {
+}
